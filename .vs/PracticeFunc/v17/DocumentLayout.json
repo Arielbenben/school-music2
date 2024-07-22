@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\relbh\\source\\repos\\PracticeFunc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9FB35F-701E-4201-8E1C-5E123BB79BDB}|PracticeFunc\\PracticeFunc.csproj|c:\\users\\relbh\\source\\repos\\practicefunc\\practicefunc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9FB35F-701E-4201-8E1C-5E123BB79BDB}|PracticeFunc\\PracticeFunc.csproj|solutionrelative:practicefunc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9FB35F-701E-4201-8E1C-5E123BB79BDB}|PracticeFunc\\PracticeFunc.csproj|c:\\users\\relbh\\source\\repos\\practicefunc\\practicefunc\\service\\musicschoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9FB35F-701E-4201-8E1C-5E123BB79BDB}|PracticeFunc\\PracticeFunc.csproj|solutionrelative:practicefunc\\service\\musicschoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9FB35F-701E-4201-8E1C-5E123BB79BDB}|PracticeFunc\\PracticeFunc.csproj|c:\\users\\relbh\\source\\repos\\practicefunc\\practicefunc\\model\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9FB35F-701E-4201-8E1C-5E123BB79BDB}|PracticeFunc\\PracticeFunc.csproj|solutionrelative:practicefunc\\model\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9FB35F-701E-4201-8E1C-5E123BB79BDB}|PracticeFunc\\PracticeFunc.csproj|c:\\users\\relbh\\source\\repos\\practicefunc\\practicefunc\\model\\instrumentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9FB35F-701E-4201-8E1C-5E123BB79BDB}|PracticeFunc\\PracticeFunc.csproj|solutionrelative:practicefunc\\model\\instrumentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9FB35F-701E-4201-8E1C-5E123BB79BDB}|PracticeFunc\\PracticeFunc.csproj|c:\\users\\relbh\\source\\repos\\practicefunc\\practicefunc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB9FB35F-701E-4201-8E1C-5E123BB79BDB}|PracticeFunc\\PracticeFunc.csproj|solutionrelative:practicefunc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9FB35F-701E-4201-8E1C-5E123BB79BDB}|PracticeFunc\\PracticeFunc.csproj|c:\\users\\relbh\\source\\repos\\practicefunc\\practicefunc\\congiguration\\musicschollconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9FB35F-701E-4201-8E1C-5E123BB79BDB}|PracticeFunc\\PracticeFunc.csproj|solutionrelative:practicefunc\\congiguration\\musicschollconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9FB35F-701E-4201-8E1C-5E123BB79BDB}|PracticeFunc\\PracticeFunc.csproj|c:\\users\\relbh\\source\\repos\\practicefunc\\practicefunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9FB35F-701E-4201-8E1C-5E123BB79BDB}|PracticeFunc\\PracticeFunc.csproj|solutionrelative:practicefunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9FB35F-701E-4201-8E1C-5E123BB79BDB}|PracticeFunc\\PracticeFunc.csproj|c:\\users\\relbh\\source\\repos\\practicefunc\\practicefunc\\service\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9FB35F-701E-4201-8E1C-5E123BB79BDB}|PracticeFunc\\PracticeFunc.csproj|solutionrelative:practicefunc\\service\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InstrumentModel.cs",
+              "DocumentMoniker": "C:\\Users\\relbh\\source\\repos\\PracticeFunc\\PracticeFunc\\Model\\InstrumentModel.cs",
+              "RelativeDocumentMoniker": "PracticeFunc\\Model\\InstrumentModel.cs",
+              "ToolTip": "C:\\Users\\relbh\\source\\repos\\PracticeFunc\\PracticeFunc\\Model\\InstrumentModel.cs",
+              "RelativeToolTip": "PracticeFunc\\Model\\InstrumentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:03:27.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\relbh\\source\\repos\\PracticeFunc\\PracticeFunc\\Model\\StudentModel.cs",
+              "RelativeDocumentMoniker": "PracticeFunc\\Model\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\relbh\\source\\repos\\PracticeFunc\\PracticeFunc\\Model\\StudentModel.cs",
+              "RelativeToolTip": "PracticeFunc\\Model\\StudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:02:34.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicSchoolService.cs",
+              "DocumentMoniker": "C:\\Users\\relbh\\source\\repos\\PracticeFunc\\PracticeFunc\\Service\\MusicSchoolService.cs",
+              "RelativeDocumentMoniker": "PracticeFunc\\Service\\MusicSchoolService.cs",
+              "ToolTip": "C:\\Users\\relbh\\source\\repos\\PracticeFunc\\PracticeFunc\\Service\\MusicSchoolService.cs",
+              "RelativeToolTip": "PracticeFunc\\Service\\MusicSchoolService.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAUwJ0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:30:16.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\relbh\\source\\repos\\PracticeFunc\\PracticeFunc\\Form1.cs",
+              "RelativeDocumentMoniker": "PracticeFunc\\Form1.cs",
+              "ToolTip": "C:\\Users\\relbh\\source\\repos\\PracticeFunc\\PracticeFunc\\Form1.cs",
+              "RelativeToolTip": "PracticeFunc\\Form1.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:14:11.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MusicSchollConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\relbh\\source\\repos\\PracticeFunc\\PracticeFunc\\Congiguration\\MusicSchollConfiguration.cs",
+              "RelativeDocumentMoniker": "PracticeFunc\\Congiguration\\MusicSchollConfiguration.cs",
+              "ToolTip": "C:\\Users\\relbh\\source\\repos\\PracticeFunc\\PracticeFunc\\Congiguration\\MusicSchollConfiguration.cs",
+              "RelativeToolTip": "PracticeFunc\\Congiguration\\MusicSchollConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:26:21.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\relbh\\source\\repos\\PracticeFunc\\PracticeFunc\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeFunc\\Program.cs",
+              "ToolTip": "C:\\Users\\relbh\\source\\repos\\PracticeFunc\\PracticeFunc\\Program.cs",
+              "RelativeToolTip": "PracticeFunc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:25:40.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Practice.cs",
+              "DocumentMoniker": "C:\\Users\\relbh\\source\\repos\\PracticeFunc\\PracticeFunc\\Service\\Practice.cs",
+              "RelativeDocumentMoniker": "PracticeFunc\\Service\\Practice.cs",
+              "ToolTip": "C:\\Users\\relbh\\source\\repos\\PracticeFunc\\PracticeFunc\\Service\\Practice.cs",
+              "RelativeToolTip": "PracticeFunc\\Service\\Practice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:14:32.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\relbh\\source\\repos\\PracticeFunc\\PracticeFunc\\Form1.cs",
+              "RelativeDocumentMoniker": "PracticeFunc\\Form1.cs",
+              "ToolTip": "C:\\Users\\relbh\\source\\repos\\PracticeFunc\\PracticeFunc\\Form1.cs [Design]",
+              "RelativeToolTip": "PracticeFunc\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:13:50.689Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
